@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-
-.obsidian/
-.workbuddy/
-.claude/
-
-raw_data/
-convert_data/
